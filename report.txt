@@ -1,0 +1,20 @@
+Relatório de Caracterização dos Dados Adquiridos
+
+Modelo do Arduino: Arduino UNO
+Data da Aquisição: 21/12/2023
+Versão do Código: versão 1
+Autor do Código: David Seita Capa
+
+Estatísticas da Temperatura:
+  - Média: 93.29
+  - Mediana: 93.00
+  - Desvio Padrão: 0.46
+  - Máximo: 94.00
+  - Mínimo: 93.00
+
+Estatísticas da Humidade:
+  - Média: 20.29
+  - Mediana: 20.00
+  - Desvio Padrão: 0.46
+  - Máximo: 21.00
+  - Mínimo: 20.00

@@ -1,0 +1,34 @@
+Relatório de Caracterização dos Dados Adquiridos - Sensores
+
+Modelo do Arduino: Arduino Nano 33 BLE Sense
+Data da Aquisição: 21/12/2023
+Versão do Código: Versão 1
+Autor do Código: David Seita Capa
+
+Estatísticas da Temperatura (T1):
+  - Média: 19.99
+  - Mediana: 19.85
+  - Desvio Padrão: 1.64
+  - Máximo: 22.98
+  - Mínimo: 17.40
+
+Estatísticas da Temperatura (T2):
+  - Média: 19.74
+  - Mediana: 19.55
+  - Desvio Padrão: 1.60
+  - Máximo: 22.77
+  - Mínimo: 17.26
+
+Estatísticas da Pressão Atmosférica:
+  - Média: 1008.55
+  - Mediana: 1008.51
+  - Desvio Padrão: 0.20
+  - Máximo: 1008.98
+  - Mínimo: 1008.22
+
+Estatísticas da Umidade Relativa:
+  - Média: 65.65
+  - Mediana: 68.55
+  - Desvio Padrão: 6.93
+  - Máximo: 79.39
+  - Mínimo: 53.22

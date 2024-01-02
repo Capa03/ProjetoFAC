@@ -26,7 +26,7 @@ Estatísticas da Pressão Atmosférica:
   - Máximo: 1008.98
   - Mínimo: 1008.22
 
-Estatísticas da Umidade Relativa:
+Estatísticas da Humidade Relativa:
   - Média: 65.65
   - Mediana: 68.55
   - Desvio Padrão: 6.93
